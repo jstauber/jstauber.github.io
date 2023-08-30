@@ -1,5 +1,5 @@
 ---
-title: "jstauber.github.io"
+title: "Jakub Stauber"
 ---
 
 This is a Quarto website.
