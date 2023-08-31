@@ -1,5 +1,13 @@
 ---
 title: "Jakub Stauber"
+about:
+  template: jolla 
+  image: profile.JPG
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/jstauber01
+    - icon: github
+      text: Github
+      href: https://github.com/jstauber
 ---
-
-
