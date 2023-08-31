@@ -10,4 +10,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/jstauber
+    - icon: book
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Jakub-Stauber
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=RZ_TSfwAAAAJ&hl=cs
 ---
