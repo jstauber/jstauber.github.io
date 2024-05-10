@@ -8,12 +8,14 @@ title: Research
 
 Global Flows of Political Information ([GLOWIN](https://glowin.cuni.cz/)) is a research project that creates the first map of the flows of political information across countries. This is a pioneering research agenda, as social sciences simply do not know the extent to which politically relevant information, as reported in mass media, travels across nations. GLOWIN opens the space for systematic exploration of this important dimension of globalization and international politics long unaddressed.
 
-### VITRI
-
-The Center for the Transdisciplinary Research of Violence, Trauma and Justice ([VITRI](https://www.vitriresearchcenter.org/)) represents a hub for the study of collective violence, reconciliation, and transitional justice at the Charles University.
-
 ### SYRI
 
 The National Institute for Research on Socioeconomic Impacts of Diseases and Systemic Risks ([SYRI](https://www.syri.institute/)) is a virtual scientific hub that brings together experts from Masaryk University, Charles University and institutes of the Czech Academy of Sciences.\
 \
 Social scientists focus on research of situations of risk and mitigation options for reduction of problems brought by sudden unexpected events like the Covid-19 pandemic, the war in Ukraine, inflation, price increases, and climate change.
+
+## Past Projects
+
+### VITRI
+
+The Center for the Transdisciplinary Research of Violence, Trauma and Justice ([VITRI](https://www.vitriresearchcenter.org/)) represents a hub for the study of collective violence, reconciliation, and transitional justice at the Charles University.
