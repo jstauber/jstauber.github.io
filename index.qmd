@@ -1,6 +1,6 @@
 ---
 title: "Jakub Stauber"
-description: "Welcome I'm Jakub, an Assistant Professor at the Institute of Political Studies at Charles University, where I combine my passions for politics, data analysis, and language to drive meaningful insights. As a political scientist, my research focuses on political parties, quantitative methods, and natural language processing, seeking to uncover new patterns and trends that shape our understanding of the political landscape."
+description: "Welcome I'm Jakub, an Assistant Professor at the Institute of Political Studies at Charles University, where I combine my passions for politics, data analysis, and language to drive meaningful insights. As a political scientist, my research focuses on political parties, quantitative methods, and natural language processing, seeking to uncover new patterns and trends that shape our understanding of the political landscape. "
 about:
   template: jolla 
   image: profile.JPG
